@@ -1,8 +1,8 @@
 <img src="https://skillicons.dev/icons?i=python" />
 <br>
 
-# Linear Regression
-Linear Regression is a simple yet powerful statistical technique used to model the relationship between a dependent variable and one or more independent variables. This project demonstrates the implementation of linear regression, from data preprocessing to training the model and evaluating its performance.
+# House Price Linear Regression
+House Price Linear Regression is a simple yet powerful statistical technique used to model the relationship between a dependent variable and one or more independent variables. This project demonstrates the implementation of linear regression, from data preprocessing to training the model and evaluating its performance.
 
 ## Table of Contents
 1. Overview
@@ -14,7 +14,7 @@ Linear Regression is a simple yet powerful statistical technique used to model t
 7. License
    
 ## Overview
-The Linear Regression project provides a practical demonstration of how to implement linear regression for both simple and multiple variables. It is designed to help users understand the underlying math, how to fit a model to data, and how to make predictions based on the trained model.
+The House Price Linear Regression project provides a practical demonstration of how to implement linear regression for both simple and multiple variables. It is designed to help users understand the underlying math, how to fit a model to data, and how to make predictions based on the trained model.
 
 ## Features
 Data preprocessing: Handle missing data, normalize features, and split data into training and testing sets.
